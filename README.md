@@ -2,6 +2,7 @@
 * The whole project is a simple commenting app which helps user to make a comment and give them the option 
   to upvote and downvote a particular comment. 
 ## How to Run
+* [Live version](https://kunal121.github.io/Commenting-App/)
 * Clone the repository to your local machine and simply run `index.html`
 ## Dependencies
 * Bootstrap
